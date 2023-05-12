@@ -1,3 +1,10 @@
-this is a room
-and we do this
-then this
+# Step 1
+
+sdoijfosijdfojisdfiosfijo fisodiofjdsijo 
+fdsjifdsojifjidjfoisd
+
+1. this is one
+2. then 2
+
+# Step 2
+
