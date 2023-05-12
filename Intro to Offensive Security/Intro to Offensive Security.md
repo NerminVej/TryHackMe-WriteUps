@@ -14,7 +14,7 @@ With the help of the command
 
 We are able to find hidden pages on FakeBanks website using the tool GoBuster
 
-![](Amount%20of%20pages%20found.png)
+![](Attachments/Amount%20of%20pages%20found.png)
 
 The amount of pages that got found during the scan
 
