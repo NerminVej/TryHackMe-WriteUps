@@ -8,3 +8,12 @@ fdsjifdsojifjidjfoisd
 
 # Step 2
 
+![[This is a test png.png]]
+
+
+ifsdjoijfsdiojfds
+
+![[fsdiojoijfdsjoids.png]]
+
+- iojsfgdijfsd
+- fjsdiifsd
