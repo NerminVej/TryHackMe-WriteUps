@@ -12,9 +12,10 @@ fdsjifdsojifjidjfoisd
 
 ifsdjoijfsdiojfds
 
-
+![[fsdf.png]]
 
 - iojsfgdijfsd
 - fjsdiifsd
 
 
+![[Pasted image 20230512110227.png]]
