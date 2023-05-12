@@ -8,17 +8,13 @@ fdsjifdsojifjidjfoisd
 
 # Step 2
 
-![[This is a test png.png]]
-
+![[new.png]]
 
 ifsdjoijfsdiojfds
 
-![ScreenShot](/fsdiojoijfdsjoids.png)
 
-
-![[fsdiojoijfdsjoids.png]]
 
 - iojsfgdijfsd
 - fjsdiifsd
 
-![[aa.png]]
+
