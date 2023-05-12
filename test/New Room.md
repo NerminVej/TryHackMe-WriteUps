@@ -19,3 +19,5 @@ ifsdjoijfsdiojfds
 
 b
 ![[letthiswork.png]]
+
+![](yes.png)
