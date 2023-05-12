@@ -4,20 +4,19 @@ sdoijfosijdfojisdfiosfijo fisodiofjdsijo
 fdsjifdsojifjidjfoisd
 
 1. this is one
-2. then 2
+2. then 
 
 # Step 2
 
-![[new.png]]
+
 
 ifsdjoijfsdiojfds
 
-![[fsdf.png]]
+
 
 - iojsfgdijfsd
 - fjsdiifsd
 
-b
-![[letthiswork.png]]
 
-![](yes.png)
+
+![](Attachments/yes.png)
