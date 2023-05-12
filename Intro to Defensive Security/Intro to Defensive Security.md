@@ -73,7 +73,7 @@ which we then investigate
 
 ![](Attachments/Malicious%20ip.png)
 
-We t hen see that the IP address belongs to someone who has some malicious intent. We immediately report this to our SOC team lead.
+We then see that the IP address belongs to someone who has some malicious intent. We immediately report this to our SOC team lead.
 
 ![](Attachments/Firewall.png)
 
