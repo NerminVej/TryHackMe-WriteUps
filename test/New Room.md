@@ -13,7 +13,12 @@ fdsjifdsojifjidjfoisd
 
 ifsdjoijfsdiojfds
 
+![ScreenShot](/fsdiojoijfdsjoids.png)
+
+
 ![[fsdiojoijfdsjoids.png]]
 
 - iojsfgdijfsd
 - fjsdiifsd
+
+![[aa.png]]
