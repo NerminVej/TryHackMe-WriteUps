@@ -28,11 +28,11 @@
 
 	THM{YOU_GOT_ON_TRYHACKME}
 
-![](What%20is%20Networking/Attachments/Inital%20state.png)
+![](Attachments/Inital%20state.png)
 
 You have to spoof your MAC address to the MAC address of Alice.
 
-![](What%20is%20Networking/Attachments/Solution.png)
+![](Attachments/Solution.png)
 
 Send a request now and you have successfully spoofed your address and can get the solution.
 
@@ -48,7 +48,7 @@ Send a request now and you have successfully spoofed your address and can get th
 
 	THM{I_PINGED_THE_SERVER}
 
-![](What%20is%20Networking/Attachments/The%20Flag.png)
+![](Attachments/The%20Flag.png)
 
 ## Task 5 Continue Your Learning: Intro to LAN
 
