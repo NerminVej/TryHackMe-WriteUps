@@ -7,7 +7,7 @@
 ## Task 2 Domain Hierarchy
 
 - What is the maximum length of a subdomain?
-	63
+> 63
 
 - Which of the following characters cannot be used in a subdomain ( 3 b _ - )?
 	_
