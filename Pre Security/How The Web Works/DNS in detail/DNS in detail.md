@@ -10,32 +10,32 @@
 > 63
 
 - Which of the following characters cannot be used in a subdomain ( 3 b _ - )?
-	_
+> _
 
 - What is the maximum length of a domain name?
-	253
+>	253
 
 - What type of TLD is .co.uk?
-	ccTLD
+>	ccTLD
 
 ## Task 3 Record Types
 
 - What type of record would be used to advise where to send email?
-	MX
+>	MX
 
 - What type of record handles IPv6 addresses?
-	AAAA
+>	AAAA
 
 ## Task 4 Making A Request
 
 - What field specifies how long a DNS record should be cached for?
-	TTL
+>	TTL
 
 - What type of DNS Server is usually provided by your ISP?
-	Recursive
+>	Recursive
 
 - What type of server holds all the records for a domain?
-	Authoritative
+>	Authoritative
 
 ## Task 5 Practical
 
