@@ -8,7 +8,7 @@ Defensive Security handles two things
 
 ### Question 1: Which team focuses on defensive security?
 
-	Blue team
+	 Blue team
 
 # Task 2 Areas of Defensive Security
 
