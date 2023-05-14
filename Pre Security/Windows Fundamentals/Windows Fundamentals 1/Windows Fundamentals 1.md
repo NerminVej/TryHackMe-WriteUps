@@ -112,4 +112,18 @@ We can set up the UAC so that if someone tries to install a program that they ne
 - What does UAC mean?
 > User Account Control
 
-## 
+## Task 8 Settings and the Control Panel
+
+- Task 8 Settings and the Control Panel
+> Windows Defender Firewall
+
+## Task 9 Task Manager
+
+- What is the keyboard shortcut to open Task Manager?
+> CTRL+Shift+ESC
+
+## Task 10 Conclusion
+
+- Read above and terminate the Windows machine you deployed in this room.
+> No answer needed
+
