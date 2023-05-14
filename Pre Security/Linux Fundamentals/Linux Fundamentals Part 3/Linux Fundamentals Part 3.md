@@ -75,4 +75,46 @@ For that we have to run the "ps aux" command to list out all the running process
 - What command would we use to bring a previously backgrounded process back to the foreground?
 > fg
 
-## 
+## Task 6 Maintaining Your System: Automation
+
+- Ensure you are connected to the deployed instance and look at the running crontabs.
+> No answer needed
+
+- When will the crontab on the deployed instance (10.10.198.82) run?
+> @reboot
+
+## Task 7 Maintaining Your System: Package Management
+
+- Since TryHackMe instances do not have an internet connection...this task only requires you to read through the material.
+> No answer needed
+
+## Task 8 Maintaining Your System: Logs
+
+- Look for the apache2 logs on the deployable Linux machine
+> No answer needed
+
+- What is the IP address of the user who visited the site?
+
+Find out which accesslog you are able to access. Then try to cat the access log and find valuable information.
+
+![](Attachments/the%20accesslog.png)
+
+![](Attachments/The%20ip%20address.png)
+
+> 10.9.232.111
+
+- What file did they access?
+
+![](Attachments/the%20jpg.png)
+
+> catsanddogs.jpg
+
+
+## Task 9 Conclusions & Summaries
+
+- Terminate the machine deployed in this room from task 2.
+> No answer needed
+
+- Continue your learning in other Linux-dedicated rooms
+> No answer needed
+
