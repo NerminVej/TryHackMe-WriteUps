@@ -85,3 +85,40 @@ The Event Viewer allows us to view events that have occured on the computer.
 > %SystemRoot%\system32\cmd.exe
 
 
+## Task 6 Resource Monitor
+
+- What is the command to open Resource Monitor? (The answer is the name of the .exe file, not the full path)
+
+![](Attachments/Resource%20monitor.png)
+
+> resmon.exe
+
+
+## Task 7 Command Prompt
+
+- In System Configuration, what is the full command for Internet Protocol Configuration?
+
+
+![](Attachments/Internet%20Protocol%20Configuration.png)
+
+> C:\Windows\System32\cmd.exe /k %windir%\system32\ipconfig.exe
+
+- For the ipconfig command, how do you show detailed information?
+
+![](Attachments/ipconfig.png)
+
+> ipconfig/all
+
+## Task 8 Registry Editor
+
+- What is the command to open the Registry Editor? (The answer is the name of  the .exe file, not the full path)
+
+![](Attachments/regedit.png)
+
+> regedt32.exe
+
+## Task 9 Conclusion
+
+- Task 9 Conclusion
+> No answer needed
+
