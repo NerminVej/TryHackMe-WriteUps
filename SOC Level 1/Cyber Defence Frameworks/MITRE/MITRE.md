@@ -61,3 +61,87 @@ We can use the ATT&CK Matrix to map a threat group to their tactics and techniqu
 
 ## Task 4 CAR Knowledge Base
 
+- For the above analytic, what is the pseudocode a representation of?
+![](Attachments/splunk%20search.png)
+> Splunk Search
+
+- What tactic has an ID of TA0003?
+![](Attachments/persistence.png)
+> Persistence
+
+- What is the name of the library that is a collection of Zeek (BRO) scripts?
+> BZAR
+
+- What is the name of the **technique** for running executables with the same hash and different names?
+> Masquerading
+
+- Examine CAR-2013-05-004, besides Implementations, what additional information is provided to analysts to ensure coverage for this technique?
+![](Attachments/MITREunit%20tests.png)
+> Unit Tests
+
+## Task 5 MITRE Engage
+
+- Under Prepare, what is ID SAC0002?
+> Persona Creation
+
+- What is the name of the resource to aid you with the engagement activity from the previous question?
+> PERSONA PROFILE WORKSHEET
+
+- Which engagement activity baits a specific response from the adversary?
+> Lures
+
+- What is the definition of Threat Model?
+> A risk assessment that models organizational strengths and weaknesses
+
+## Task 6 MITRE D3FEND
+
+- What is the first MITRE ATT&CK technique listed in the ATT&CK Lookup dropdown?
+> Data Obfuscation
+
+- In D3FEND Inferred Relationships, what does the ATT&CK technique from the previous question produce?
+> Outbound Internet Network Traffic
+
+## Task 7 ATT&CK® Emulation Plans
+
+- In Phase 1 for the APT3 Emulation Plan, what is listed first?
+> C2 Setup
+
+- Under Persistence, what binary was replaced with cmd.exe?
+![](Attachments/sethc.png)
+> sethc.exe
+
+- Examining APT29, what  C2 frameworks are listed in Scenario 1 Infrastructure? (format: tool1,tool2)
+> Pupy,Metasploit Framework
+
+- What C2 framework is listed in Scenario 2 Infrastructure?
+> PoshC2
+
+- Examine the emulation plan for Sandworm. What webshell is used for Scenario 1? Check MITRE ATT&CK for the Software ID for the webshell. What is the id? (format: webshell,id)
+![](Attachments/pas.png)
+> P.A.S.,S0598
+
+## Task 8 ATT&CK® and Threat Intelligence
+
+- What is a group that targets your sector who has been in operation since at least 2013?
+> APT33
+
+- As your organization is migrating to the cloud, is there anything attributed to this APT group that you should focus on? If so, what is it?
+> Cloud Accounts
+
+- What tool is associated with the technique from the previous question?
+> Ruler
+
+- Referring to the technique from question 2, what mitigation method suggests using SMS messages as an alternative for its implementation?
+![](Attachments/multifactor.png)
+> Multi-factor Authentication
+
+
+- What platforms does the technique from question #2 affect?
+> Azure AD, Google Workspace, IaaS, Office 365, SaaS
+
+
+## Task 9 Conclusion
+
+- _Read the above_
+> No answer needed
+
