@@ -96,4 +96,55 @@ Here is a list of all the requests by regidle.exe:
 
 > 9
 
-## 
+## Task 6 Network Artifacts (Annoying)
+
+- What browser uses the User-Agent string shown in the screenshot above?
+![](Attachments/browser.png)
+> Internet Explorer
+
+- How many POST requests are in the screenshot from the pcap file?
+> 6
+
+## Task 7 Tools (Challenging)
+
+- Provide the method used to determine similarity between the files
+> Fuzzy Hashing
+
+- Provide the alternative name for fuzzy hashes without the abbreviation
+![](Attachments/Pyramid%20Of%20Pain.png)
+> Context Triggered Piecewise Hashes
+
+## Task 8 TTPs (Tough)
+
+TTPs stands for Tactics, Techniques & Procedures.
+
+- Navigate to ATT&CK Matrix webpage. How many techniques fall under the Exfiltration category?
+
+![](Attachments/ATTCK.png)
+
+> 9
+
+- Chimera is a China-based hacking group that has been active since 2018. What is the name of the commercial, remote access tool they use for C2 beacons and data exfiltration?
+
+![](Attachments/overc2.png)
+We navigate to the "Exfiltration Over C2 Channel" webpage.
+![](Attachments/chimera.png)
+Then we can easily search for "Chimera" to gain the answer.
+
+> Cobalt Strike
+
+## Task 9 Practical: The Pyramid of Pain
+
+- Complete the static site.
+
+![](Attachments/pyramid.png)
+
+
+> No answer needed
+
+
+## Task 10 Conclusion
+
+- Read the above.
+> No answer needed
+
