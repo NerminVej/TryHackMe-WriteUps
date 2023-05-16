@@ -46,3 +46,31 @@ We send the "FlagAuthorised: True" request to gain the flag.
 
 ## Task 7 Practical Challenge
 
+- Capture a request to one of the numeric products endpoints in the Proxy, then forward it to Repeater.
+> No answer needed
+
+- What is the flag you receive when you cause a 500 error in the endpoint?
+> THM{N2MzMzFhMTA1MmZiYjA2YWQ4M2ZmMzhl}
+
+
+## Task 8 Extra Mile SQLi with Repeater
+
+- Let's start by capturing a request to MACHINE IP in the Burp Proxy. Once you have captured the request, send it to Repeater with `Ctrl + R` or by right-clicking and choosing "Send to Repeater".
+> No answer needed
+
+- You should see that the server responds with a "500 Internal Server Error", indicating that we successfully broke the query:
+> No answer needed
+
+- With this information, we can skip over the query column number and table name enumeration steps.
+> No answer needed
+
+- Looking through the returned response, we can see that the first column name (`id`) has been inserted into the page title:
+> No answer needed
+
+
+
+## Task 9 Conclusion Room Conclusion
+
+- I can use Burp Suite Repeater!
+> No answer needed
+
