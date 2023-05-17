@@ -99,4 +99,4 @@ And we gain the flag of this exercise by completing all the tasks.
 
 - After building the threat profile, what message do you receive?
 >  THM{NOW_I_CAN_CTI}
->
+
