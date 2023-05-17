@@ -51,3 +51,52 @@ There is a six-phase cycle in the threat intel process.
 
 ## Task 5 Practical Analysis
 
+- What was the source email address?
+![](Attachments/ipaddresses.png)
+
+We have alot of data on our SIEM which we can use to answer all the questions below.
+
+![](Attachments/flowchart.png)
+
+![](Attachments/accounts.png)
+
+First we can see here that the attacker logged in into the "Administrator" account and logged off from the "John Doe" account.
+
+![](Attachments/admin.png)
+
+![](Attachments/email.png)
+
+The Email recipient seems to be here.
+
+![](Attachments/john.png)
+
+The Ip of the attacker can be found here:
+
+![](Attachments/ip.png)
+
+
+![](Attachments/threatip.png)
+
+We also saw in one of the previous pictures the email address that the attacker used.
+
+![](Attachments/email-1.png)
+
+And the attacker downloaded an .exe file which is most likely the maleware that he downlaoded onto the system.
+
+![](Attachments/maleware.png)
+
+![](Attachments/exe.png)
+
+And we gain the flag of this exercise by completing all the tasks.
+
+![](Attachments/Intro%20to%20Cyber%20Threat%20Intelflag.png)
+
+- What was the source email address?
+> vipivillain@badbank.com
+
+- What was the name of the file downloaded?
+> flbpfuh.exe
+
+- After building the threat profile, what message do you receive?
+>  THM{NOW_I_CAN_CTI}
+>
