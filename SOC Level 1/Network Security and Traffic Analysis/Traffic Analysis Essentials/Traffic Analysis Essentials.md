@@ -24,3 +24,27 @@
 ![](Attachments/analysis.png)
 
 Not only shows the IP address 10.10.99.99 multiple login attempts aswell as Metasploit Traffic which is a common hacking tool so we block this IP address with the filter.
+There is also "Bad Traffic" which we want to catch with our filter aswell.
+
+![](Attachments/flag1.png)
+
+> THM{PACKET_MASTER}
+
+Level-2 is simulating the identification and filtering of malicious IP and Port addresses.
+
+- What is the flag?
+
+![](Attachments/secondanalysis.png)
+
+![](Attachments/blocked%20ports.png)
+
+![](Attachments/flag2.png)
+
+> THM{DETECTION_MASTER}
+
+## Task 4 Conclusion
+
+- Read the task above.
+> No answer needed
+
+
