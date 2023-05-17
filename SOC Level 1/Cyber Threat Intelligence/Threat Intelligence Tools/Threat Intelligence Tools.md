@@ -93,5 +93,16 @@ Urlscan automates the process of browsing through websites to record activities 
 
 ## Task 8 Scenario 2
 
+- What is the name of the attachment on Email3.eml?
+![](Attachments/salesreceipt.png)
+> Sales_Receipt 5606.xls
 
+- What malware family is associated with the attachment on Email3.eml?
+> Dridex
+
+
+## Task 9 Conclusion
+
+- Read the above and completed the room
+> No answer needed
 
