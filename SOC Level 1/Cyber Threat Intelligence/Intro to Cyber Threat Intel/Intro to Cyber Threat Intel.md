@@ -27,3 +27,27 @@ Operational Intel looks at the motives of the adversary.
 
 ## Task 3 CTI Lifecycle
 
+There is a six-phase cycle in the threat intel process.
+- Direction
+- Collection
+- Processing
+- Analysis
+- Dissemination
+- Feedback
+
+- At which phase of the CTI lifecycle is data converted into usable formats through sorting, organising, correlation and presentation?
+> Processing
+
+- During which phase do security analysts get the chance to define the questions to investigate incidents?
+> Direction
+
+## Task 4 CTI Standards & Frameworks
+
+- What sharing models are supported by TAXII?
+> Collection and Channel
+
+- When an adversary has obtained access to a network and is extracting data, what phase of the kill chain are they on?
+> Actions on Objectives
+
+## Task 5 Practical Analysis
+
