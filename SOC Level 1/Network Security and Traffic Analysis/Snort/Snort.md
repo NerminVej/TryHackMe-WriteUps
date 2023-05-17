@@ -77,5 +77,71 @@ Run the "sudo snort -c /etc/snort/snort.conf -T" command.
 - Read the "**snort.log.1640048004"** file with Snort; what is the number of the **"TCP port 80"** packets?
 > 41
 
+## Task 7 Operation Mode 3: IDS/IPS
 
+ - What is the number of the detected HTTP GET methods?
+> 2
+
+- You can practice the rest of the parameters by using the traffic-generator script.
+>  No answer needed
+
+## Task 8 Operation Mode 4: PCAP Investigation
+
+
+- What is the number of the generated alerts?
+![](Attachments/alerts.png)
+
+> 170
+
+- Keep reading the output. How many TCP Segments are Queued?
+![](Attachments/tcpsegments.png)
+> 18
+
+- Keep reading the output.How many "HTTP response headers" were extracted?
+![](Attachments/httpresponse.png)
+> 3
+
+- What is the number of the generated alerts?
+![](Attachments/alert2.png)
+> 68
+
+- What is the number of the generated alerts?
+> 340
+
+- Keep reading the output. What is the number of the detected TCP packets?
+> 82
+
+- What is the number of the generated alerts?
+![](Attachments/alertspcap3.png)
+> 1020
+
+## Task 9 Snort Rule Structure
+
+- Write a rule to filter **IP ID "35369"** and run it against the given pcap file. What is the request name of the detected packet? `snort -c local.rules -A full -l . -r task9.pcap`
+
+With the help of the comment `sudo gedit /etc/snort/snort.conf` we can design our custom rules inside of snort.
+
+> TIMESTAMP REQUEST
+
+- Create a rule to filter packets with Syn flag and run it against the given pcap file. What is the number of detected packets?
+> 1
+
+- Write a rule to filter packets with Push-Ack flags and run it against the given pcap file. What is the number of detected packets?
+> 216
+
+- Create a rule to filter packets with the same source and destination IP and run it against the given pcap file. What is the number of detected packets?
+> 10
+
+- Case Example - An analyst modified an existing rule successfully. Which rule option must the analyst change after the implementation?
+> rev
+
+## Task 10 Snort2 Operation Logic: Points to Remember
+
+- Read the task above.
+> No answer needed
+
+## Task 11 Conclusion
+
+-  Read the task above.
+> No answer needed
 
