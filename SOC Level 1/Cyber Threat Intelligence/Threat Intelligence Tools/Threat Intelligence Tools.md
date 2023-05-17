@@ -57,5 +57,41 @@ Urlscan automates the process of browsing through websites to record activities 
 > LinkedIn
 
 - What is the senders email address?
+![](Attachments/email.png)
+> darkabutla@sc500.whpservers.com
 
-> 
+- What is the recipient's email address?
+![](Attachments/recipient.png)
+> cabbagecare@hotsmail.com
+
+- What is the Originating IP address? Defang the IP address.
+> 204[.]93[.]183[.]11
+
+- How many hops did the email go through to get to the recipient?
+> 4
+
+
+## Task 6 Cisco Talos Intelligence
+
+- What is the listed domain of the IP address from the previous task?
+> scnet.net
+
+- What is the customer name of the IP address?
+> Complete Web Reviews
+
+
+## Task 7 Scenario 1
+
+- According to **Email2.eml**, what is the recipient's email address?
+![](Attachments/chrislyon.png)
+> chris.lyons@supercarcenterdetroit.com
+
+- From Talos Intelligence, the attached file can also be identified by the Detection Alias that starts with an **H...**
+![](Attachments/hiddennext.png)
+
+> HIDDENEXT/Worm.Gen
+
+## Task 8 Scenario 2
+
+
+
