@@ -50,4 +50,12 @@ Urlscan automates the process of browsing through websites to record activities 
 ![](Attachments/georgia.png)
 > Georgia
 
-## 
+## Task 5 PhishTool
+
+- What organisation is the attacker trying to pose as in the email?
+![](Attachments/linkedin.png)
+> LinkedIn
+
+- What is the senders email address?
+
+> 
