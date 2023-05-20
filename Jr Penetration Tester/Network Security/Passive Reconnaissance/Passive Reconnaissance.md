@@ -18,3 +18,15 @@
 
 ## Task 3 Whois
 
+- When was TryHackMe.com registered?
+> 20180705
+![](Attachments/creation.png)
+- What is the registrar of TryHackMe.com?
+![](Attachments/registrar.png)
+> namecheap.com
+
+- Which company is TryHackMe.com using for name servers?
+> Cloudflare.com
+
+## Task 4 nslookup and dig
+
