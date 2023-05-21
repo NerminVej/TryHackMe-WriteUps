@@ -49,3 +49,40 @@
 
 ## Task 5 Nmap Host Discovery Using ARP
 
+- How many devices are you able to discover using ARP requests?
+> 3
+
+## Task 6 Nmap Host Discovery Using ICMP
+
+- What is the option required to tell Nmap to use ICMP Timestamp to discover live hosts?
+> -PP
+
+- What is the option required to tell Nmap to use ICMP Address Mask to discover live hosts?
+> -PM
+
+- What is the option required to tell Nmap to use ICMP Echo to discover life hosts?
+> -PE
+
+## Task 7 Nmap Host Discovery Using TCP and UDP
+
+- Which TCP ping scan does not require a privileged account?
+> TCP SYN Ping
+
+- Which TCP ping scan requires a privileged account?
+> TCP SYN Ping
+
+- What option do you need to add to Nmap to run a TCP SYN ping scan on the telnet port?
+> -PS23
+
+## Task 8 Using Reverse-DNS Lookup
+
+- We want Nmap to issue a reverse DNS lookup for all the possibles hosts on a subnet, hoping to get some insights from the names. What option should we add?
+> -R
+
+## Task 9 Summary
+
+![](Attachments/allscansnmap.png)
+
+- Ensure you have taken note of all the Nmap options explained in this room. To continue learning about Nmap, please join the room [Nmap Basic Port Scans](https://tryhackme.com/room/nmap02), which introduces the basic types of port scans.
+> No answer needed
+
