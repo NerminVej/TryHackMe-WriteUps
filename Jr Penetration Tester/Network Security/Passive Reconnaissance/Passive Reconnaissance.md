@@ -30,3 +30,31 @@
 
 ## Task 4 nslookup and dig
 
+- Check the TXT records of thmlabs.com. What is the flag there?
+> THM{a5b83929888ed36acb0272971e438d78}
+
+## Task 5 DNSDumpster
+
+- Lookup tryhackme.com on DNSDumpster. What is one interesting subdomain that you would discover in addition to www and blog?
+![](Attachments/remote.png)
+> remote
+
+## Task 6 Shodan.io
+
+- According to Shodan.io, what is the 2nd country in the world in terms of the number of publicly accessible Apache servers?
+![](Attachments/germany.png)
+> Germany
+
+- Based on Shodan.io, what is the 3rd most common port used for Apache?
+![](Attachments/port.png)
+> 8080
+
+- Based on Shodan.io, what is the 3rd most common port used for nginx?
+![](Attachments/nginx.png)
+> 888
+
+## Task 7 Summary
+
+- Make sure you note all the points discussed in this room, especially the syntax for the command-line tools.
+> No answer needed
+
