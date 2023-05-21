@@ -53,5 +53,11 @@
 
 ## Task 6 Netcat
 
+- Start the VM and open the AttackBox. Once the AttackBox loads, use Netcat to connect to the VM port 21. What is the version of the running server?
+> 0.17
 
+## Task 7 Putting It All Together
+
+- Ensure that you gain mastery over the different basic yet essential tools we presented in this room before moving on to more sophisticated tools.
+> No answer needed
 
