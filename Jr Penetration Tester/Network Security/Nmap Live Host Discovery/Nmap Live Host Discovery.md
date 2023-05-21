@@ -27,4 +27,25 @@
 - How many IP addresses will Nmap scan if you provide the following range `10.10.0-255.101-125`?
 > 6400
 
-## 
+## Task 4 Discovering Live Hosts
+
+- What is the type of packet that computer1 sent before the ping?
+> ARP request
+
+- What is the type of packet that computer1 received before being able to send the ping?
+> ARP response
+
+- How many computers responded to the ping request?
+> 1
+
+- What is the name of the first device that responded to the first ARP Request?
+> router
+
+- What is the name of the first device that responded to the second ARP Request?
+> computer5
+
+- Send another Ping Request. Did it require new ARP Requests? (Y/N)
+> N
+
+## Task 5 Nmap Host Discovery Using ARP
+
