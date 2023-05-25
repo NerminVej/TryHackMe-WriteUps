@@ -82,3 +82,44 @@ We can cat the "/etc/passwd" file.
 
 From the previous task we now know the credentials of user2.
 
+First lets go to GTFObins and try to find what it has to say about base64 in the SUID section.
+
+![](Attachments/GTFOBINS.png)
+
+![](Attachments/LFILE.png)
+
+![](Attachments/base64command.png)
+
+![](Attachments/hash.png)
+
+
+We are then able to find the hash of the password from user2.
+
+I have created now the user2.txt file inside of the /tmp folder.
+
+![](Attachments/user2.png)
+
+Use johntheripper to crack the password.
+
+'john user2.txt --show'
+
+> Password1
+
+- What is the content of the flag3.txt file?
+
+Lets login into user2.
+
+![](Attachments/suuser2.png)
+
+We then go into the home directory to find the flag3.txt file. We don't have any permission to read it though.
+
+![](Attachments/flag3denied.png)
+
+We can use the same trick here again on the file.
+
+![](Attachments/flag3flag.png)
+
+> THM-3847834
+
+
+
