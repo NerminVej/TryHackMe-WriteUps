@@ -98,4 +98,25 @@
 ![](Attachments/systemoutrage.png)
 > F
 
-- 
+## Task 9 Mission Plan
+
+- Navigate to the "_View Site"_  button and read the provided mission plan. Once complete, answer the questions below.
+> No answer needed
+
+- When will the phishing campaign end? (mm/dd/yyyy)
+![](Attachments/end2.png)
+> 10/23/2021
+
+- Are you permitted to attack 10.10.6.78? (Y/N)
+![](Attachments/targets2.png)
+> N
+
+- When a stopping condition is encountered, you should continue working and determine the solution yourself without a team lead. (T/F)
+![](Attachments/constattemaleadornot.png)
+> F
+
+## Task 10 Conclusion
+
+- Read the above and continue learning!
+> No answer needed
+
