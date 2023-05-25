@@ -68,3 +68,17 @@ We first ls and see which folders we got. We go directly into our home folder an
 
 ## Task 7 Privilege Escalation: SUID
 
+
+
+
+
+- Which user shares the name of a great comic book writer?
+
+We can cat the "/etc/passwd" file.
+![](Attachments/passwdfile.png)
+> gerryconway
+
+- What is the password of user2?
+
+From the previous task we now know the credentials of user2.
+
