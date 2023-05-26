@@ -44,5 +44,5 @@ Type in `whois thmredteam.com`
 ![](Attachments/shodan.png)
 > shodan myip
 
-## Task 6 Recon-ng
+## Task 6 Recon- f
 
