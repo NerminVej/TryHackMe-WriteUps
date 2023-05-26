@@ -3,7 +3,7 @@
 ## Task 1 Introduction
 
 - We suggest you start the AttackBox and experiment with every command and tool we demonstrate.
-> No answer needed
+> No answer neede
 
 ## Task 2 Taxonomy of Reconnaissance
 
