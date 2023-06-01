@@ -46,3 +46,24 @@ Type in `whois thmredteam.com`
 
 ## Task 6 Recon-ng
 
+- How do you start `recon-ng` with the workspace `clinicredteam`?
+> recon-ng -w clinicredteam
+
+- How many modules with the name `virustotal` exist?
+> 2
+
+- There is a single module under `hosts-domains`. What is its name?
+> migrate_hosts
+
+- `censys_email_address` is a module that “retrieves email addresses from the TLS certificates for a company.” Who is the author?
+> Censys Team
+
+## Task 7 Maltego
+
+- What is the name of the transform that queries NIST’s National Vulnerability Database?
+> NIST NVD
+
+- What is the name of the project that offers a transform based on ATT&CK?
+![](Attachments/misp.png)
+> MISP Project
+
